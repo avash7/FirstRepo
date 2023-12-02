@@ -1,2 +1,2 @@
-# FirstRepo
+# README
 Simple repository for now
